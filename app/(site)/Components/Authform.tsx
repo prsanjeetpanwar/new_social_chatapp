@@ -17,7 +17,7 @@ const Authform = () => {
     setVariant('REGISTER')
   }
   else{
-    setVariant('REGISTER')
+    setVariant('LOGIN')
   }
     },[variant])
 
